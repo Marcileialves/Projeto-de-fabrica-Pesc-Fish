@@ -75,8 +75,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Login no site:página inicial |O usuario devera realizar o login na página principal do site de pesca,logando ele podera ter acesso a seus dados. |
-|RF-002 |Exibir preços na aba abaixo do produto que está a venda.|Sera um código que mostrará o valor do produto abaixo da|
+|RF-001 |Login no site: página inicial |O usuario devera realizar o login na página principal do site de pesca,logando ele podera ter acesso a seus dados. |
+|RF-002 |O sistema deve exibir preços na aba abaixo do produto que está a venda.|Sera um código que mostrará o valor do produto abaixo da|
 |RF-003 |O sistema deve exibir os produtos || os produtos estarão cadastrado no banco de dados
 
 
