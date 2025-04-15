@@ -7,11 +7,11 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Marcilei Alves|Gerente de Projeto|a.marcilei@estudante.ifro.edu.br|
+|Wellington Jardel Silva Barros|Projetor|wellingtonjardel37@gmail.com|
+|Izais Gomes de Oliveira Neto|Analista de projeto|izaiasgomesdeoliveiraneto@gmail.com|
+|Ailla Odorizzi da Costa Teixeira|Designer|ailla.odorizzi@estudante.ifro.edu.br|
+|Arthur Santos Ribeiro Barboza Mathias|Programador|imrealmaybe@gmail.com|
 
 
 # Sumário
