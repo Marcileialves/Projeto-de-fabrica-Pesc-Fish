@@ -38,7 +38,7 @@
 | NOME DO PROJETO | Click Fishing |
 | GERENTE DO PROJETO | Marcilei Alves |
 | PRINCIPAL OBJETIVO | Expandir o comercio para comercio externo |
-| BENEFÍCIOS ESPERADOS |* Aumento das vendas;<br/>* Aumentar os clientes via web;<br/>* <br/>* Alcançar publico alvo maior.;<br/>* Crescer a empresa para um ramo maior.|
+| BENEFÍCIOS ESPERADOS |* Aumento das vendas;<br/>* Aumentar os clientes via web;<br/> <br/>* Alcançar publico alvo maior.;<br/>* Crescer a empresa para um ramo maior.|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
