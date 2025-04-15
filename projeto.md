@@ -16,7 +16,7 @@
 
 # Sumário
 
-* [RESUMO DO PROJETO](#resumo-do-projeto)
+* [RESUMO DO PROJETO](#Fabricação-de-Website)
 * [INTRODUÇÃO](#introdução)
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
 * [DESCRIÇÃO GERAL](#descrição-geral)
@@ -35,10 +35,10 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | Click Fishing |
+| GERENTE DO PROJETO | Marcilei Alves |
+| PRINCIPAL OBJETIVO | Expandir o comercio para comercio externo |
+| BENEFÍCIOS ESPERADOS |* Aumento das vendas;<br/>* Aumentar os clientes via web;<br/>* ;<br/>* Alcançar publico alvo maior.;<br/>* Crescer a empresa para um ramo maior.|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
