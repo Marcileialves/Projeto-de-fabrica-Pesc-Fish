@@ -69,14 +69,15 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 A especificação dos requisitos deste documento deve seguir as recomendações da norma IEEE Std-830-1998, levando em conta as recomentações do documento de [características dos requisitos](caracteristicas_requisitos.md).
 
-## Requisitos Funcionais
+## Requisitos Funcionais do sistema.
 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Login no site:página inicial |O usuario devera realizar o login na página principal do site de pesca,logando ele podera ter acesso a seus dados. |
+|RF-002 |Exibir preços na aba abaixo do produto que está a venda.|Sera um código que mostrará o valor do produto abaixo da|
+|RF-003 |O sistema deve exibir os produtos || os produtos estarão cadastrado no banco de dados
 
 
 ## Requisitos Não Funcionais
