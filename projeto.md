@@ -77,14 +77,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 :---|:---|:---|
 |RF-001 |Login no site: página inicial |O usuario devera realizar o login na página principal do site de pesca,logando ele podera ter acesso a seus dados. |
 |RF-002 |O sistema deve exibir preços na aba abaixo do produto que está a venda.|Sera um código que mostrará o valor do produto abaixo da expecificação.|
-|RF-003 |O sistema deve exibir os produtos || os produtos estarão cadastrado no banco de dados.
-|RF-004 |O fornecedor deve cadastrar os produtos para venda || os produtos estarão cadastrado no banco de dados.
-|RF-005 |O sistema devera cadastrar fornecedores disponível|| os fornecedores estarão cadastrado no banco de dados.
-|RF-006 |O sistema deve cadastrar cliente || os cliente serão cadastrado no banco de dados.
-|RF-007 |O sistema podera mudar a função de cada usuário || Ex: de usuário padrão para adiministrador.
-|RF-008 |O sistema deve mostrar quantidade  de estoque disponível. || Quantidade de produto estára cadastrado no banco de dados.
+|RF-003 |O sistema deve exibir os produtos || os produtos estarão cadastrado no banco de dados.||
+|RF-004 |O fornecedor deve cadastrar os produtos para venda || os produtos estarão cadastrado no banco de dados.||
+|RF-006 |O sistema deve cadastrar cliente || os cliente serão cadastrado no banco de dados.||
+|RF-007 |O sistema podera mudar a função de cada usuário || Ex: de usuário padrão para adiministrador.||
+|RF-008 |O sistema deve mostrar quantidade  de estoque disponível. || Quantidade de produto estára cadastrado no banco de dados.||
 |RF-009 |O sistema terá a guia suporte de produtos e informação ao usuário || os suporte usuário podera conversar e fornecer informação do sistema pela a aba do site.
 |RF-0010 |Mostrar as promoções do dia. || o sitema podera mostrar as promoção do dia.
+|RF-0011 |Classificar os items a venda como mulinete,Iscas artificiais etc. || Ele classifica os items em separadas formas.
+|RF-0012 |Adicionar um carrinho para ver quais items e o total da compra || Mostrar os items para compra
+|RF-0013 |No cadastro para crirar uma conta escolher pessoa juridica ou fisica || O sistema cadastra se a pessoa é juridica ou fisica e armazena em um banco de dados.
 
 
 
@@ -93,9 +95,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-
+|RNF-001|O programa deve ser intuitivo com sua interface gráfica|O Website deve ser fácil de usar e intuitivo, permitindo que os usuários executem tarefas de forma eficiente.|
+|RNF-002 |o programa deve ter uma boa proteção de dados com implementação de segurança cibernetica  |Analisar formas de invasão basica no website |
+|RNF-003 |O sistema deve ser capaz de lidar com um aumento no número de usuários e no volume de dados sem perda de desempenho.| |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -118,6 +120,6 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # REFERÊNCIAS
 
-Esta subseção apresenta as referências aos documentos que utilizamos no auxílio à construção deste documento.
+Esta subseção apresenta as referências aos documentos que foram disponibilizado pelo os professores do institutos Federais.
 * [UML](https://www.omg.org/spec/UML/2.5/About-UML/)
 * [Práticas para Especificação de Requisitos IEEE-830](https://ieeexplore.ieee.org/document/720574)
