@@ -86,7 +86,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-0010 |Mostrar as promoções do dia. || o sitema podera mostrar as promoção do dia.
 |RF-0011 |Classificar os items a venda como mulinete,Iscas artificiais etc. || Ele classifica os items em separadas formas.
 |RF-0012 |Adicionar um carrinho para ver quais items e o total da compra || Mostrar os items para compra
-|RF-0013 |No cadastro para crirar uma conta escolher pessoa juridica ou fisica || O sistema cadastra se a pessoa é juridica ou fisica e armazena em um banco de dados.
+|RF-0013 |O sistema tera uma tela onde o usuário poderá apagar, atualizar, e editar o produto, marca,fornecedor|| Métodos do sistema.
+|RF-0014 |O sistema deve mostrar a notificação de sucesso quando o usuário cadastrar,editar e excluir, atualizar produto, marca, fornecedor || Métodos do sistema.
+|RF-0015 |Atravez de uma API poder localizar todo o endereço quando ele digitar o cep no site || Função do backend
+|RF-0016 |O Usuário podera redefinir sua senha dando foi esquecido ||redefinição de senha.
+
 
 
 
