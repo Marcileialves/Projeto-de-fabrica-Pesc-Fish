@@ -37,9 +37,9 @@
 |:---|:---|
 | NOME DO PROJETO | Click Fishing |
 | GERENTE DO PROJETO | Marcilei Alves |
-| PRINCIPAL OBJETIVO | Expandir o comercio para comercio externo |
-| BENEFÍCIOS ESPERADOS |* Aumento das vendas;<br/>* Aumentar os clientes via web;<br/> <br/>* Alcançar publico alvo maior.;<br/>* Crescer a empresa para um ramo maior.|
-| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
+| PRINCIPAL OBJETIVO | Criar um site de venda de produtos de pesca Web. |
+| BENEFÍCIOS ESPERADOS |* Ganhar porcentagem em cima do site ;<br/>* 
+| INÍCIO E TÉRMINO PREVISTOS | 14/03/2024 - 07/12/2025 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -47,7 +47,7 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Click Fishing_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Pesc Fishing_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -57,7 +57,7 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
 |**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e fazer encomendas. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
+|**Administrador:**|Poder ter acesso aos usuário cadastrado, poder ter controle a função que usuário padrão não teria|
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
